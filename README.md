@@ -1,10 +1,3 @@
 # hello-world
 
-hello i am connor i am learning to code hope i dont STINK
-
-   
-
-     )\
-    (   )
-  (       )
-(...........)
+hello i am connor i am learning to code 
